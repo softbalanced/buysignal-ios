@@ -5,10 +5,11 @@ Increase the chance of traders and investors making gains from the stocks market
 
 ## Screenshots
 <p align="middle">
+  <img width="190" src="https://github.com/softbalanced/buysignal-ios/blob/main/screen_home.PNG?raw=true">
 <img width="190" src="https://github.com/softbalanced/buysignal-ios/blob/main/screen_b.PNG?raw=true">
 <img width="190" src="https://github.com/softbalanced/buysignal-ios/blob/main/screen_c.PNG?raw=true">
 <img width="190" src="https://github.com/softbalanced/buysignal-ios/blob/main/screen_d.PNG?raw=true">
-<img width="190" src="https://github.com/softbalanced/buysignal-ios/blob/main/screen_home.PNG?raw=true">
+
 <img width="190" src="https://github.com/softbalanced/buysignal-ios/blob/main/screen_like.PNG?raw=true">
 </p>
 
